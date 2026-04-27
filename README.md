@@ -1,6 +1,6 @@
-# searchclaw
+# researchclaw
 
-**searchclaw** 是一个专为科研人员打造的自动化文献检索与追踪工具。
+**researchclaw** 是一个专为科研人员打造的自动化文献检索与追踪工具。
 
 本项目旨在通过自动化的手段，辅助科研工作者高效地获取每日感兴趣的最新论文，并针对特定领域（如 **ieal** 相关）进行深度文献挖掘。
 
@@ -21,9 +21,9 @@
 > **注意**：本项目目前处于 **早期开发阶段 (Work In Progress)**，核心架构正在搭建中。
 
 ---
-# searchclaw
+# researchclaw
 
-**searchclaw** is an automated literature retrieval and tracking tool designed specifically for researchers.
+**researchclaw** is an automated literature retrieval and tracking tool designed specifically for researchers.
 
 This project aims to assist researchers in efficiently acquiring the latest papers of interest on a daily basis through automation, and to perform in-depth literature mining for specific domains (such as **ieal**-related research).
 
